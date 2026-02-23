@@ -1,6 +1,6 @@
 ## Redmi Note 7 (lavender)
 
-Android 13
+> Android 13
 - [ProjectBlaze (30/10/23)](https://github.com/vhmit-releases/xiaomi-sdm660/releases/tag/ProjectBlaze-v2.10-DAWN-lavender-20231030-1416-VANILLA-UNOFFICIAL)
 - [SuperiorExtended (02/11/23)](https://github.com/vhmit-releases/xiaomi-sdm660/releases/tag/SuperiorOS-EXTENDED-lavender-Vanilla-20231102-2033)
 - [Android Ice Cold Project (06/11/23)](https://github.com/vhmit-releases/xiaomi-sdm660/releases/tag/aicp_lavender_t-18.0-UNOFFICIAL-20231106)
